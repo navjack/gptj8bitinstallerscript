@@ -1,3 +1,5 @@
+# WARNING UNTESTED AND POTENTIALLY COULD JUST SCREW UR SHIT UP
+
 # gptj8bitinstallerscript
 
 start the installing with 0gptj-installer.bat
